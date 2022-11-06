@@ -1,7 +1,3 @@
----
-description: TODO we need some descriptions about lively verse
----
-
 # 👋 Welcome to Lively Verse
 
 {% hint style="info" %}
