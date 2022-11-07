@@ -4,7 +4,7 @@
 
 ## Overview
 
-* [💡 What we do](overview/what-we-do.md)
+* [💡 Lively World](overview/lively-world.md)
 * [✨ Our Features](overview/our-features.md)
 
 ## Product Guides
