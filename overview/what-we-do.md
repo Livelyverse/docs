@@ -3,6 +3,7 @@ description: >-
   The first TV blockchain show... Aquí introducimos bien de lo que va el
   programa, que vienen expertos de la tecnologia a hablar, de viajes,
   curiosidades, conocimiento...etc, Porque nuestro objetivo es
+coverY: 0
 ---
 
 # 💡 Lively World

@@ -24,12 +24,12 @@ Describimos cuales son nuestros propósitos, los objetivos. De mezclar la indust
 
 ## Quick links
 
-{% content-ref url="overview/lively-world.md" %}
-[lively-world.md](overview/lively-world.md)
+{% content-ref url="overview/what-we-do.md" %}
+[what-we-do.md](overview/what-we-do.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
+{% content-ref url="overview/our-ecosystem.md" %}
+[our-ecosystem.md](overview/our-ecosystem.md)
 {% endcontent-ref %}
 
 ## Get Started

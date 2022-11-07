@@ -1,4 +1,10 @@
-# ✨ Our Features
+---
+description: >-
+  Describimos un poco nuestro ecosistema, con fotos, y todos los features que
+  tenemos.
+---
+
+# ✨ Our Ecosystem
 
 {% hint style="info" %}
 **GitBook tip:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at Loom as a perfect example of a succinct feature overview.

@@ -4,8 +4,8 @@
 
 ## Overview
 
-* [💡 Lively World](overview/lively-world.md)
-* [✨ Our Features](overview/our-features.md)
+* [💡 Lively World](overview/what-we-do.md)
+* [✨ Our Ecosystem](overview/our-ecosystem.md)
 
 ## Product Guides
 
