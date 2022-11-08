@@ -16,7 +16,7 @@ El programa es producido por UCL - "Unión Continental Latinoamérica" quien bri
 
 Nuestra intención es potenciar y  explicar  los secretos del nuevo paradigma tecnológico y la industria blockchain. Informar a los televidentes  sobre el mundo tecnológico, financiero, criptográfico, web 3.0, metaverso y otro temas, orientado siempre desde un punto de vista de la tecnología descentralizada.
 
-También incluimos viajes, entrevistas con youTuber e influencer y diferentes curiosidades relacionados con este mundo. Actualmente  no hay comentarios en televisión sobre los riesgos y beneficios, cómo funcionan, cómo se gestionan o quién está detrás del mundo crypto~~.~~
+También incluimos viajes, entrevistas con youTuber e influencer, entrevistas especiales y diferentes curiosidades relacionados con este mundo. Actualmente  no hay comentarios en televisión sobre los riesgos y beneficios, cómo funcionan, cómo se gestionan o quién está detrás del mundo crypto~~.~~
 
 El objetivo es aprovechar el alcance global para enfocarnos en los nuevos conocimientos de la tecnología y la innovación, que son las herramientas que nos inspiran a construir y adquirir nuevos saberes.
 
