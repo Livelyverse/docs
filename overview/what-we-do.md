@@ -10,11 +10,17 @@ coverY: 0
 
 >
 
-El programa Lively World, de la productora UCL - "Unión Continental Latinoamérica", el canal de televisión que llega a más de 40 millones de hogares en países como: Argentina, Bolivia, Chile, Colombia, España, Estados Unidos, México, Panamá, Paraguay, Perú, República Dominicana y Uruguay con contenido audiovisual regional y de alta calidad a través de las diferentes empresas de TV por suscripción de las Américas y plataformas digitales, se puede ver a nivel mundial, con un alcance de 80 millones de espectadores.&#x20;
+Desde el programa Lively World buscamos acercar el mundo crypto a pequeñas empresas y startups.
 
-Nuestra intención desde el programa, es potenciar y explicar sobre el nuevo paradigma tecnológico y la industria Blockchain. Informar a los televidentes sobre el mundo tecnológico llamado ecosistema y crear conciencia sobre lo último de las criptomonedas, mundo financiero, tecnológia descentralizada, web 3, metaverso y otro temas, desde un aspecto más relevante, donde también incluimos viajes, entrevistas con youtubers e influencers y diferentes curiosidades. Actualmente no hay comentarios en televisión sobre los riesgos y beneficios, cómo funcionan, cómo se gestionan o quién está detrás de ellos.
+El programa es producido por UCL - "Unión Continental Latinoamérica" quien brinda contenido audiovisual de alta calidad a Latinoamérica y los Estados Unidos a través de un canal propio trasmitido por diferentes empresas de TV por suscripción y plataformas digitales con un alcance de 80 millones de espectadores.
 
-El objetivo es aprovechar el alcance global para enfocarnos en los nuevos conocimientos de la tecnología y la innovación, que son las herramientas que nos inspiran a construir y adquirir nuevos saberes. Confiamos en visualizar las nuevas plataformas, estrategias y perspectivas que brinda el programa y en la posibilidad de crear un nexo que los cineastas y creadores de contenido necesitan para poder modernizar sus programas
+Nuestra intención es potenciar y  explicar  los secretos del nuevo paradigma tecnológico y la industria blockchain. Informar a los televidentes  sobre el mundo tecnológico, financiero, criptográfico, web 3.0, metaverso y otro temas, orientado siempre desde un punto de vista de la tecnología descentralizada.
+
+También incluimos viajes, entrevistas con youTube e influence y diferentes curiosidades relacionados con este mundo. Actualmente  no hay comentarios en televisión sobre los riesgos y beneficios, cómo funcionan, cómo se gestionan o quién está detrás del mundo crypto~~.~~
+
+El objetivo es aprovechar el alcance global para enfocarnos en los nuevos conocimientos de la tecnología y la innovación, que son las herramientas que nos inspiran a construir y adquirir nuevos saberes.
+
+Desde Lively World, confiamos en visualizar las nuevas plataformas, estrategias, perspectivas  y contenido que brinda el programa.
 
 > Aquí mencionamos la colaboración que tenemos con UCL, cuanta gente lo visita...etc. Y un logo + mapa de los canales que llega UCL.&#x20;
 
