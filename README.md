@@ -22,9 +22,23 @@ Brindamos financiación y comercialización a las empresas que se integran a nue
 
 
 
+
+
 #### Our Goals&#x20;
 
-Describimos cuales son nuestros propósitos, los objetivos. De mezclar la industria del blockchain con el mundo real. Ayudar a consehuir fondos y cumplir los sueños de los emprendedores (lo ponemos bonito con palabras elegantes). Y aquí damos una breve introducción de cómo lo vamos a hacer > Lively World. Una muy breve descripción porque dejamos lo más importante en el siguiente apartado,&#x20;
+Describimos cuales son nuestros propósitos, los objetivos. De mezclar la industria del blockchain con el mundo real. Ayudar a consehuir fondos y cumplir los sueños de los emprendedores (lo ponemos bonito con palabras elegantes). Y aquí damos una breve introducción de cómo lo vamos a hacer > Lively World. Una muy breve descripción porque dejamos lo más importante en el siguiente apartado...
+
+Nuestro objetivo principal es empoderar el futuro de la tecnología blockchain. Para esto, estamos consciente de los dos factores fundamentales que dan vida a un proyecto; financiación y comercialización, y eso es lo que brindamos a las empresas que se integran a nuestro ecosistema completo para inversores, empresas emergentes y consumidores de contenido de la tecnología blockchain.
+
+La utilidad y potencial de esta tecnología tiene un futuro prometedor,  con ella desaparecen los intermediarios. Tienes registros sin registradores, pruebas de datos que no se pueden modificar, ya que quitar un eslabón de la cadena y poner otro en su lugar es, en la práctica, imposible.
+
+Con el poder de su transparencia e inmutabilidad, múltiples casos de uso de Blockchain podemos encontrar en el mundo real al día de hoy, sin contar las múltiples propuestas que se espera logren implementarse en otros sectores.
+
+Las nuevas tecnologías y el mundo digital avanzan sin pedir mucho permiso y, sobre todo, a pasos cada vez más grandes. Muchos empresas e emprendedores buscan oportunidades en nuevos horizontes y escenarios. Por ello, Livelyverse, va a potenciar las conexiones e interacciones del universo descentralizado para que los emprendedores y las empresas que trabajen con nosotros; van a generar mayores ingresos y una amplia variedad de servicios de marketing. Actualmente a los proyectos de empresas/startups de blockchain, no pueden acceder y  mostrar sus productos en los medios masivos de comunicación.
+
+La idea central del programa Lively World es difundir el conocimiento de la cadena de bloques y otras tecnologías y también para recaudar fondos para empresas y empredores. Además de proyectar el contenido audiovisual de estas startups, recaudará financiación a través de su método Decentralized Venture.
+
+
 
 
 
