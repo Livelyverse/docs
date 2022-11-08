@@ -12,7 +12,15 @@ Aqui una breve introduccion sobre nosotros, introducción con datos del mercado 
 
 #### Our Vision&#x20;
 
-Aqui contamos cual es nuestra visión a futuro, de que ayudamos a los emprendedores de dicho sector poder tener la habilidad de conseguir fondos, conexión, darles un escalón etc.&#x20;
+La visión a futuro desde Livelyverse, es poder ayudar a los emprendedores del universo blockchain y cripto –criptodivisas, exchanges, metaverso, web 3, nFTs, DeFi, entre otros-.
+
+Brindamos financiación y comercialización a las empresas que se integran a nuestro ecosistema¸ buscando otorgar a nuestra comunidad, más y mejores opciones de progreso.
+
+Aceleramos y potenciamos las conexiones e interacciones del sector digital para generar mayores fondos.
+
+También le damos a las empresas la oportunidad de promocionarse mediante una amplia variedad de servicios de marketing que ofrecemos y nuestros socios brindan como televisión nacional, marketing en redes sociales, relaciones públicas, marketing web 3.0, influencers y mucho más.
+
+
 
 
 
