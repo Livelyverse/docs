@@ -32,9 +32,9 @@ La utilidad y potencial de esta tecnología tiene un futuro prometedor,  con ell
 
 Con el poder de su transparencia e inmutabilidad, múltiples casos de uso de Blockchain podemos encontrar en el mundo real al día de hoy, sin contar las múltiples propuestas que se espera logren implementarse en otros sectores.
 
-Las nuevas tecnologías y el mundo digital avanzan sin pedir mucho permiso y, sobre todo, a pasos cada vez más grandes. Muchos empresas e emprendedores buscan oportunidades en nuevos horizontes y escenarios.
+Las nuevas tecnologías y el mundo digital avanzan sin pedir mucho permiso y, sobre todo, a pasos cada vez más grandes. Muchas empresas e emprendedores buscan oportunidades en nuevos horizontes y escenarios.
 
-Livelyverse, va a potenciar las conexiones e interacciones del universo descentralizado para que los emprendores y las empresas que trabajen con nosotros que es totalmente accesible para todos. Van a generar mayores ingresos y una amplia variedad de servicios de marketing. Actualmente a las empresas/startups de blockchain,  es difícil el acceso para mostrar sus productos en los medios masivos de comunicación.
+Por ello, Livelyverse, va a potenciar las conexiones e interacciones del universo descentralizado para que los emprendedores y las empresas que trabajen con nosotros, van a poder generar mayores ingresos y una amplia variedad de servicios de marketing. Actualmente a las empresas/startups de blockchain, (......)    mostrar sus productos en los medios masivos de comunicación.
 
 La idea central del programa Lively World es difundir el conocimiento de la cadena de bloques y otras tecnologías y también para recaudar fondos para empresas y empredores. Además de proyectar el contenido audiovisual de estas startups, recaudará financiación a través de su método Decentralized Venture.
 
