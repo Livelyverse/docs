@@ -14,7 +14,7 @@ Desde el programa Lively World, de la productora UCL - "Unión Continental Latin
 
 Nuestra intención desde el programa, es potenciar y explicar sobre el nuevo paradigma tecnológico y la industria Blockchain. Informar a los televidentes sobre el mundo tecnológico llamado ecosistema y crear conciencia sobre lo último de las criptomonedas, mundo financiero, tecnológia descentralizada, web 3, metaverso y otro temas, desde un aspecto más relevante, donde también incluimos viajes, entrevistas con youtuber e influencer y diferentes curiosidades. Actualmente no hay comentarios en televisión sobre los riesgos y beneficios, cómo funcionan, cómo se gestionan o quién está detrás de ellos.
 
-el objetivo es aprovechar el alcance global para enfocarnos en los nuevos conocimientos de la tecnología y la innovación, que son las herramientas que nos inspiran a construir y adquirir nuevos saberes. Desde Lively World, confiamos en visualizar las nuevas plataformas, estrategias y perspectivas que brinda el programa y en la posibilidad de crear un nexo que los cineastas y creadores de contenido necesitan para poder modernizar sus programas
+el objetivo es aprovechar el alcance global para enfocarnos en los nuevos conocimientos de la tecnología y la innovación, que son las herramientas que nos inspiran a construir y adquirir nuevos saberes. Confiamos en visualizar las nuevas plataformas, estrategias y perspectivas que brinda el programa y en la posibilidad de crear un nexo que los cineastas y creadores de contenido necesitan para poder modernizar sus programas
 
 > Aquí mencionamos la colaboración que tenemos con UCL, cuanta gente lo visita...etc. Y un logo + mapa de los canales que llega UCL.&#x20;
 
