@@ -12,9 +12,11 @@ From <mark style="color:purple;">**Lively World**</mark> program we seek to brin
 
 The program is produced by [UCL Televisión - "Un Canal Latinoamericano"](https://www.ucltelevision.com) who provides high quality audiovisual content to Latin America and the United States through its own channel broadcast by different subscription TV companies and digital platforms with a reach of 80 million viewers.
 
-<figure><img src="../.gitbook/assets/Screenshot 2022-11-09 at 12.21.09.png" alt=""><figcaption></figcaption></figure>
-
 <figure><img src="../.gitbook/assets/Logo-UCL_VeraTV 2 (1).png" alt=""><figcaption></figcaption></figure>
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td></td><td></td><td><a href="../.gitbook/assets/Screenshot 2022-11-09 at 12.21.09.png">Screenshot 2022-11-09 at 12.21.09.png</a></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+
 
 Nuestra intención es potenciar y  explicar  los secretos del nuevo paradigma tecnológico y la industria blockchain. Informar a los televidentes  sobre el mundo tecnológico, financiero, criptográfico, web 3.0, metaverso y otro temas, orientado siempre desde un punto de vista de la tecnología descentralizada.
 
