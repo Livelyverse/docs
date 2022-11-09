@@ -5,7 +5,7 @@
 ## Overview
 
 * [🌍 Lively World](overview/what-we-do.md)
-* [✨ Our Ecosystem](overview/our-ecosystem.md)
+* [➰ Our Ecosystem](overview/our-ecosystem.md)
 
 ## Product Guides
 
