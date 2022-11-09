@@ -24,13 +24,11 @@ Our main goal is to empower the future of blockchain technology. To achieve this
 
 New technologies and the digital world are moving forward in a fast pace way, and above all, with ever-increasing steps. Many companies and entrepreneurs are looking for opportunities in new horizons and scenarios. Therefore, <mark style="color:purple;">Lively Verse</mark>, is going to empower the connections and interactions of the decentralized universe so that entrepreneurs and companies that work with us, will be able to generate greater revenue and a wide variety of marketing services.&#x20;
 
-The main idea of the Lively World program is to spread awareness of blockchain and other technologies and also to raise funds for companies and entrepreneurs. In addition to screening the audiovisual content of these startups, it will raise funding through its Decentralized Venture method.
+**Here comes our most powerful tool** :fireworks: <mark style="color:purple;">Lively World</mark> :fireworks:  Our own TV Program Show destined to spread awareness of blockchain knowledge and other technologies to help people understand about this new trend.&#x20;
 
 
 
-
-
-## Quick links
+### Want to learn more about Lively Verse?
 
 {% content-ref url="overview/what-we-do.md" %}
 [what-we-do.md](overview/what-we-do.md)
