@@ -4,27 +4,21 @@ description: Official Lively Verse Light paper
 
 # 👋 Welcome to Lively Verse
 
-## Overview
+The Digital Marketing industry services have always been a essential tool for every business to success. Furthermore, it´s become a must in our daily life. It is estimated that Global Digital Advertising and Marketing Market would reach $786.2 Billion by 2026. However, another trend which is merging is the Blockchain industry since the birth of bitcoin. The blockchain market value have reached and projected to reach $67.4 billion by 2026. Due to the driving factors including the increase venture capital fundings, investments and the extensive use of blockchain solution in multiple areas such as banking, cybersecurity among many others.&#x20;
 
-Aqui una breve introduccion sobre nosotros, introducción con datos del mercado de marketing publicidad y blockchain. Después de la importancia, nos introducimos. (mejor con datos y referencias de nº) de por qué es importante este sector.&#x20;
-
-
-
-#### Our Vision&#x20;
-
-La visión a futuro desde Livelyverse, es poder ayudar a los emprendedores del universo blockchain y cripto –criptodivisas, exchanges, metaverso, web 3, nFTs, DeFi, entre otros- a potenciar las conexiones e interacciones del sector digital para generar mayores fondos y también le damos a las empresas la oportunidad de promocionarse mediante una amplia variedad de servicios de marketing que ofrecemos y nuestros socios brindan como televisión nacional, marketing en redes sociales, relaciones públicas, marketing web 3.0, influencers y mucho más.
-
-Brindamos financiación y comercialización a las empresas que se integran a nuestro ecosistema¸ buscando otorgar a nuestra comunidad, más y mejores opciones de progreso.
+<mark style="color:purple;">**Lively Verse**</mark> merges the best of both industries: <mark style="color:purple;">Marketing + Blockchain</mark> delivering an open platform to allow all users of the world to take their business or projects one step further. We have the tools to make this happen, providing the best marketing services and helping all entrepreneurs of the blockchain sector to achieve their dreams and give life to their projects.&#x20;
 
 
 
+:large\_blue\_diamond: <mark style="color:purple;">**Our Vision**</mark>&#x20;
 
+> "Empowering the next blockchain generation through knowledge & technology"
 
+Livelyverse's vision for the future is to help entrepreneurs in the blockchain and crypto universe -cryptocurrencies, exchanges, metaverse, web 3, nFTs, DeFi, among many others- to leverage their connections and interactions within the digital sector to raise funds and bringing into reality their project.&#x20;
 
+We also provide companies, start ups of the sector, the opportunity to promote themselves through a wide variety of marketing services. Thanks to all our partners working along with Lively inclduding national television, social media marketing, public relationships, web 3.0 marketing, influencers and much more. We provide financing and marketing services to companies that join our ecosystem, seeking to provide our community with more and better tools to empower the whole blockchain industry.&#x20;
 
-
-
-#### Our Goals&#x20;
+#### <mark style="color:purple;"></mark>:star: What are our goals?
 
 Nuestro objetivo principal es empoderar el futuro de la tecnología blockchain. Para esto, estamos consciente de los dos factores fundamentales que dan vida a un proyecto; financiación y comercialización, y eso es lo que brindamos a las empresas que se integran a nuestro ecosistema completo para inversores, empresas emergentes y consumidores de contenido de la tecnología blockchain.
 
