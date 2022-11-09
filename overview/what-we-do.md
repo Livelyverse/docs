@@ -22,4 +22,4 @@ Our intention is to empower and explain how does the new technological paradigm 
 
 ## Trailer of Lively World:&#x20;
 
-{% file src="../.gitbook/assets/VIDEO-2022-07-04-13-30-31.mp4" %}
+{% embed url="https://www.loom.com/share/62764c98dcd84b18b6b25244ea99a160" %}
