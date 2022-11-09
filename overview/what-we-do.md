@@ -1,18 +1,20 @@
 ---
 description: >-
-  The first TV blockchain show... Aquí introducimos bien de lo que va el
-  programa, que vienen expertos de la tecnologia a hablar, de viajes,
-  curiosidades, conocimiento...etc, Porque nuestro objetivo es
+  The first TV Blockchain Show bringing the latest updates and news regarding
+  the technology industry, latest trends, curiosities, knowledge & traveling
+  around the world.
 coverY: 0
 ---
 
-# 💡 Lively World
+# 🌍 Lively World
 
->
+From <mark style="color:purple;">**Lively World**</mark> program we seek to bring the crypto world closer to small companies, start ups and specially the common people who are not aware of this technology.&#x20;
 
-Desde el programa Lively World buscamos acercar el mundo crypto a pequeñas empresas y startups.
+The program is produced by [UCL Televisión - "Un Canal Latinoamericano"](https://www.ucltelevision.com) who provides high quality audiovisual content to Latin America and the United States through its own channel broadcast by different subscription TV companies and digital platforms with a reach of 80 million viewers.
 
-El programa es producido por UCL - "Unión Continental Latinoamérica" quien brinda contenido audiovisual de alta calidad a Latinoamérica y los Estados Unidos a través de un canal propio trasmitido por diferentes empresas de TV por suscripción y plataformas digitales con un alcance de 80 millones de espectadores.
+<figure><img src="../.gitbook/assets/Screenshot 2022-11-09 at 12.21.09.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Logo-UCL_VeraTV 2 (1).png" alt=""><figcaption></figcaption></figure>
 
 Nuestra intención es potenciar y  explicar  los secretos del nuevo paradigma tecnológico y la industria blockchain. Informar a los televidentes  sobre el mundo tecnológico, financiero, criptográfico, web 3.0, metaverso y otro temas, orientado siempre desde un punto de vista de la tecnología descentralizada.
 
