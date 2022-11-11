@@ -6,9 +6,9 @@ description: >-
 coverY: 0
 ---
 
-# 🌍 Lively World
+# 🎬 Lively World
 
-From [<mark style="color:purple;">**Lively World**</mark>](what-we-do.md#trailer-of-lively-world) program we seek to bring the crypto world closer to small companies, start ups and specially the common people who are not aware of this technology.&#x20;
+From [<mark style="color:purple;">**Lively World**</mark>](lively-world.md#trailer-of-lively-world) program we seek to bring the crypto world closer to small companies, start ups and specially the common people who are not aware of this technology.&#x20;
 
 The program is produced by [UCL Televisión - "Un Canal Latinoamericano"](https://www.ucltelevision.com) who provides high quality audiovisual content to Latin America and the United States through its own channel broadcast by different subscription TV companies and digital platforms with a reach of 80 million viewers.
 

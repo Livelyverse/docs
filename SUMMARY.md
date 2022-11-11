@@ -4,12 +4,12 @@
 
 ## Overview
 
-* [🌍 Lively World](overview/what-we-do.md)
+* [🧊 LivelyVerse Club](overview/livelyverse-club.md)
 * [➰ Our Ecosystem](overview/our-ecosystem.md)
 
 ## Product Guides
 
-* [📪 Making a post](product-guides/making-a-post.md)
+* [🎬 Lively World](product-guides/lively-world.md)
 * [📎 Understanding Projects](product-guides/understanding-projects.md)
 
 ## Fundamentals

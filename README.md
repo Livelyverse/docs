@@ -30,8 +30,8 @@ New technologies and the digital world are moving forward in a fast pace way, an
 
 ### Want to learn more about Lively Verse?
 
-{% content-ref url="overview/what-we-do.md" %}
-[what-we-do.md](overview/what-we-do.md)
+{% content-ref url="product-guides/lively-world.md" %}
+[lively-world.md](product-guides/lively-world.md)
 {% endcontent-ref %}
 
 {% content-ref url="overview/our-ecosystem.md" %}
