@@ -6,17 +6,18 @@
 
 * [🧊 LivelyVerse Club](overview/livelyverse-club.md)
 * [➰ Our Ecosystem](overview/our-ecosystem.md)
+* [🔳 Inoverse Token](overview/inoverse-token.md)
 
 ## Product Guides
 
 * [🎬 Lively World](product-guides/lively-world.md)
 * [📎 Understanding Projects](product-guides/understanding-projects.md)
 
-## Fundamentals
+## The People
 
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+* [🤝 Meet our partners](the-people/meet-our-partners/README.md)
+  * [📝 Setting permissions](the-people/meet-our-partners/setting-permissions.md)
+  * [🧑 Inviting Members](the-people/meet-our-partners/inviting-members.md)
 
 ## Use Cases
 
