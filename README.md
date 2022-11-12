@@ -24,32 +24,4 @@ Our main goal is to empower the future of blockchain technology. To achieve this
 
 New technologies and the digital world are moving forward in a fast pace way, and above all, with ever-increasing steps. Many companies and entrepreneurs are looking for opportunities in new horizons and scenarios. Therefore, <mark style="color:purple;">Lively Verse</mark>, is going to empower the connections and interactions of the decentralized universe so that entrepreneurs and companies that work with us, will be able to generate greater revenue and a wide variety of marketing services.&#x20;
 
-**Here comes our most powerful tool** :fireworks: <mark style="color:purple;">Lively World</mark> :fireworks:  Our own TV Program Show destined to spread awareness of blockchain knowledge and other technologies to help people understand about this new trend.&#x20;
-
-
-
-### Want to learn more about Lively Verse?
-
-{% content-ref url="product-guides/lively-world.md" %}
-[lively-world.md](product-guides/lively-world.md)
-{% endcontent-ref %}
-
-{% content-ref url="overview/our-ecosystem.md" %}
-[our-ecosystem.md](overview/our-ecosystem.md)
-{% endcontent-ref %}
-
-## Get Started
-
-We've put together some helpful guides for you to get setup with our product quickly and easily.
-
-{% content-ref url="the-people/meet-our-partners/" %}
-[meet-our-partners](the-people/meet-our-partners/)
-{% endcontent-ref %}
-
-{% content-ref url="the-people/meet-our-partners/setting-permissions.md" %}
-[setting-permissions.md](the-people/meet-our-partners/setting-permissions.md)
-{% endcontent-ref %}
-
-{% content-ref url="the-people/meet-our-partners/inviting-members.md" %}
-[inviting-members.md](the-people/meet-our-partners/inviting-members.md)
-{% endcontent-ref %}
+**Here comes our different Lively tools** :fireworks: [<mark style="color:purple;">LivelyVerse Club</mark>](overview/livelyverse-club.md) :fireworks:  a high standard investment club, created to connect the best people of the sector.  :fireworks: [<mark style="color:purple;">Lively Ecosystem</mark>](overview/our-ecosystem.md) :fireworks:  A sustainable financial ecosystem created to help entrepreneurs and offering a pool of opportunities. :fireworks: [<mark style="color:purple;">Lively World</mark>](our-marketing-tools/lively-world.md) :fireworks:  Our own TV Program Show destined to spread awareness of blockchain knowledge and other technologies to help people understand about this new trend.&#x20;

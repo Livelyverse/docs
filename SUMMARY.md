@@ -6,12 +6,11 @@
 
 * [🧊 LivelyVerse Club](overview/livelyverse-club.md)
 * [➰ Our Ecosystem](overview/our-ecosystem.md)
-* [🔳 Inoverse Token](overview/inoverse-token.md)
+* [🔳 LVL Token & Innoverse Token](overview/lvl-token-and-innoverse-token.md)
 
-## Product Guides
+## Our Marketing tools&#x20;
 
-* [🎬 Lively World](product-guides/lively-world.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+* [🎬 Lively World](our-marketing-tools/lively-world.md)
 
 ## The People
 

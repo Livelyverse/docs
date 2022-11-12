@@ -1,8 +1,8 @@
 ---
 description: >-
-  The first TV Blockchain Show bringing the latest updates and news regarding
-  the technology industry, latest trends, curiosities, knowledge & traveling
-  around the world.
+  Our own TV Blockchain Show bringing the latest updates and news regarding the
+  technology industry, latest trends, curiosities, knowledge & traveling around
+  the world.
 coverY: 0
 ---
 
