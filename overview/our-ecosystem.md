@@ -29,5 +29,5 @@ Current market is characterized by:&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2022-11-11 at 23.48.51.png" alt=""><figcaption></figcaption></figure>
 
-The main core of our ecosystem is to deliver a long-term sustainable structure, merging investment  and media into one single place. Where everyone can find what they are looking for in this space, either marketing services to raise funds & popularity or finding projects that matches with your life vision. And the connection between them all is linked by [LVL token & Inno Token](lvl-token-and-innoverse-token.md).&#x20;
+The main core of our ecosystem is to deliver a long-term sustainable structure, merging investment  and media into one single place. Where everyone can find what they are looking for in this space, either marketing services to raise funds & popularity or finding projects that matches with your life vision. And the connection between them all is linked by [LVL token & Inno Token](inoverse-token.md).&#x20;
 
