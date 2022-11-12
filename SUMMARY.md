@@ -14,7 +14,5 @@
 
 ## The People
 
-* [🤝 Meet our partners](the-people/meet-our-partners/README.md)
-  * [📝 Setting permissions](the-people/meet-our-partners/setting-permissions.md)
-  * [🧑 Inviting Members](the-people/meet-our-partners/inviting-members.md)
+* [🤝 Meet our partners](the-people/meet-our-partners.md)
 * [⏳ Roadmap](the-people/roadmap.md)
