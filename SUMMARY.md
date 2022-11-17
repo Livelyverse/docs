@@ -19,5 +19,4 @@
 
 ## Technical
 
-* [📓 References](technical/references/README.md)
-  * [Technical References](https://app.gitbook.com/o/DNSvTSjSoo94Kwz1T9Bg/s/YTeYqoA76hBb6Jmhp133/)
+* [📓 References](https://app.gitbook.com/o/DNSvTSjSoo94Kwz1T9Bg/s/YTeYqoA76hBb6Jmhp133/)
