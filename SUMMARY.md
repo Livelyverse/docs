@@ -16,3 +16,8 @@
 
 * [🤝 Meet our partners](the-people/meet-our-partners.md)
 * [⏳ Roadmap](the-people/roadmap.md)
+
+## Technical
+
+* [📓 References](technical/references/README.md)
+  * [Technical References](https://app.gitbook.com/o/DNSvTSjSoo94Kwz1T9Bg/s/YTeYqoA76hBb6Jmhp133/)
