@@ -1,15 +1,26 @@
 # Table of contents
 
-## Getting Started
+* [👋 Welcome to Lively Verse](README.md)
 
-* [Architecture Overview](README.md)
-* [Smart Contracts Overview](getting-started/smart-contracts-overview.md)
+## Overview
 
-## Core Contracts
+* [🧊 LivelyVerse Club](overview/livelyverse-club.md)
+* [➰ Our Ecosystem](overview/our-ecosystem.md)
+* [🔳 LVL Token & Innoverse Token](overview/inoverse-token.md)
 
-* [Access Control Manager](core-contracts/access-control-manager.md)
-* [Asset Manager](core-contracts/asset-manager.md)
+## Our Marketing tools&#x20;
 
-## Tokens
+* [🎬 Lively World](product-guides/lively-world.md)
 
-* [Lively Token](tokens/lively-token.md)
+## The People
+
+* [🤝 Meet our partners](the-people/meet-our-partners.md)
+* [⏳ Roadmap](the-people/roadmap.md)
+
+## Technical
+
+* [📓 References](https://app.gitbook.com/o/DNSvTSjSoo94Kwz1T9Bg/s/YTeYqoA76hBb6Jmhp133/)
+
+## Guide
+
+* [💡 FAQ](guide/faq.md)
