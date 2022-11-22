@@ -1,8 +1,8 @@
 # Smart Contracts Overview
 
-اکوسیستم لایولی شامل قراردادهای هوشمند گوناگونی است که در میسر فرایند توسعه طراحی و پیاده سازی خواهند شد.
+The Lively ecosystem includes various smart contracts that will be designed and implemented during the development process.
 
-در حال حاضر  access control manager and asset manager erc20 از core contracts ها و از توکن ها lively token طراحی و پیاده سازی شده اند که  در بستر blockchain polygon استقرار یافته اند
+At present, access control manager and asset manager erc20 have been designed and implemented from core contracts and lively tokens, which are established on the polygon blockchain platform.
 
 &#x20;
 

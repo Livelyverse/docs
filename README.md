@@ -1,40 +1,28 @@
 # Architecture Overview
 
-معماری لایولی بر اساس ارایه سرویس های مالی و media میباشد که بدین منظور نیازمند تعامل با پلتفرم های مطرح در حوزه مالی و رسانه میباشد که شمای کلی این معماری مطابق تصویر شماره ۱ مباشد.
-
-
+Liveli's architecture is based on providing financial and media services, which requires interaction with prominent platforms in the field of finance and media.
 
 <figure><img src=".gitbook/assets/lively-token-Page-4.drawio.svg" alt=""><figcaption><p>Lively System - figure 1</p></figcaption></figure>
 
 
 
-به طور کلی ساختار معماری  لایولی بر مبنای تکنولوژی های وب ۲ و وب ۳ بنا شده است.
-
-و طراحی و پیاده سازی سرویس های ارایه شده توسط لایولی مطابق با آن تکنولوژی ها میباشد&#x20;
-
-که  در دیاگرام شماره ۲ دیده میشود&#x20;
+In general, Liveli's architectural structure is based on Web 2 and Web 3 technologies. And the design and implementation of the services provided by Lively are in accordance with those technologies which can be seen in diagram number 2
 
 <figure><img src=".gitbook/assets/lively-token-Page-5.drawio.svg" alt=""><figcaption><p>Lively Landing System - figure 2</p></figcaption></figure>
 
-لندینگ نقطه ورود به دنیای لایولی میباشد.  لندینگ جهت  ارایه سرویس  ها مورد نظر با  پلت فرم های مختلفی در تعامل است.
+Landing is the entry point to Lively's world. Landing interacts with various platforms to provide the desired services. In general, the following services are provided on the basis of Web2 technologies:
 
-به طور کلی  بر بستر تکنولوژی های وب۲  سرویس های زیر را ارایه میشوند:
+Airdrop service: This service is responsible for providing airdrops to active users on social networks
 
-سرویس ایردراپ:  این سرویس وظیفه ارایه ایردراپ به کاربرانن فعال در  شبکه های اجتماعی  را دارد
+Blog service: presenting important articles and events of the blockchain world related to Lively
 
-سرویس بلاگ:  ارایه مقالات و رویدادهای مهم  دنیای بلاکچین مرتبط  با لایولی
+Notification service: to send emails to authenticate Lively users and register users
 
-سرویس نوتیفیکیشن : جهت ارسال ایمیل برای  احراز هویت کاربران لایولی  وثبت نام کاربران
+Market place service: a place to provide marketing services, PR. . . by approved servers along with a payment gateway on the blockchain platform
 
-سرویس مارکت پلیس : مکانی برای ارایه سرویس های مارکتینگ ، pr , . . . توسط سرویس دهنده های&#x20;
+Back-office service: to provide various management panels of the Liveli system, including user management panels, reports panels, asset management panels. . . User management service: to provide user profile, dashboard. . . it is
 
-تایید شده به همراه درگاه پرداخت بر بستر بلاکچین
-
-سرویس back-office: جهت ارایه انواع پنل های مدیریتی سیستم لایولی که شامل پنل مدیریت کاربران ، پنل گزارشات ، پنل asset management, . . .
-
-سرویس user management: جهت ارایه user profile , dashboard , . . . مباشد
-
-سرویس blockchain : جهت ارایه انواع گزارشات و جستجوی تراکنش ها از بستر blockchain
+Blockchain service: to provide all kinds of reports and search transactions from the blockchain platform
 
 
 
@@ -42,14 +30,14 @@
 
 
 
-&#x20; بر بستر تکنولوژی های وب۳  سرویس های زیر را ارایه میشوند:
+The following services are provided on the basis of Web3 technologies:
 
-قراردادهای هوشمند غیرمتمرکز مالی: ارایه انواع قراردادهای غیر متمرکز مالی بر بستر بلاکچین و تعامل با پلتفرم های متمرکز وغیرمتمرکز معتبر مالی بر بستر بلاکچین
+Decentralized financial smart contracts: offering a variety of decentralized financial contracts on the blockchain platform and interacting with reliable centralized and decentralized financial platforms on the blockchain platform
 
-قراردادهای شرکت های خودکار غیر متمرکز: ارایه   قراردادهای شرکت های غیرمتمرکز به منظور ایجاد بستری پویا جهت مدیریت اکوسیستم لایولی
+Decentralized automated company contracts: offering decentralized company contracts in order to create a dynamic platform for managing the Lively&#x20;
 
-قرارداد های توکن: ارایه انواع قراردادهای هوشمند توکن با استانداردهای متفاوت جهت برطرف کردن نیازهای اکوسیستم لایولی
+Token contracts: offering a variety of smart token contracts with different standards to meet the needs of the Lively ecosystem
 
-قراردادهای ادغام : ارایه انواع قراردادهای ادغام و کمکی جهت بهبود ارایه سرویس های ترکیبی و اتصال به platform های دیگر&#x20;
+Integration contracts: providing all kinds of integration and help contracts to improve the provision of combined services and connection to other platforms
 
 <figure><img src=".gitbook/assets/lively-token-Page-6.drawio.svg" alt=""><figcaption></figcaption></figure>

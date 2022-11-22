@@ -1,10 +1,8 @@
 # Access Control Manager
 
-در هر سیستم access control manager یکی از مهمترین اجزای آن سیستم محسوب میشود  و با توجه به گستردگی اکوسیستم لایولی، ما تصمیم گرفتیم که یک access control manager را از صفر  طراحی کنیم که بتواند نیاز های لایولی رو برطرف نماید.
+In any system, the access control manager is considered one of the most important components of that system, and considering the extent of the Lively ecosystem, we decided to design an access control manager from scratch that can meet Lively's needs.
 
-ایده اصلی این طراحی بر مبنای  یک ساختار access control manager متمرکز بر روی بستر blockchain  که یک ساختار غیرمتمرکز و on-chain هست ، ایجاد شده است
-
-بر همین اساس و مطابق با شکل زیر ما نیاز به تعاریف مفاهیم در نظر گرفته شده در طراحی رو داریم
+The main idea of this design is based on an access control manager structure focused on the blockchain platform, which is a decentralized and on-chain structure. Based on this and according to the figure below, we need the definitions of the concepts considered in the design
 
 &#x20;
 
