@@ -4,8 +4,8 @@
 
 ## Overview
 
-* [🧊 LivelyVerse Club](overview/livelyverse-club.md)
 * [➰ Our Ecosystem](overview/our-ecosystem.md)
+* [🧊 LivelyVerse Club](overview/livelyverse-club.md)
 * [🔳 LVL Token & Innoverse Token](overview/inoverse-token.md)
 
 ## Our Marketing tools&#x20;
