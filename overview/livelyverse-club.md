@@ -1,5 +1,7 @@
 ---
 description: The high standard elite investment club
+cover: ../.gitbook/assets/Screenshot 2022-11-11 at 22.52.33.png
+coverY: 0
 ---
 
 # 🧊 LivelyVerse Club
