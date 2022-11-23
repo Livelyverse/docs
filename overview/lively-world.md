@@ -3,6 +3,7 @@ description: >-
   Our own TV Blockchain Show bringing the latest updates and news regarding the
   technology industry, latest trends, curiosities, knowledge & traveling around
   the world.
+cover: ../.gitbook/assets/Logo definitivo.png
 coverY: 0
 ---
 
