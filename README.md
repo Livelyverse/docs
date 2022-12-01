@@ -1,16 +1,14 @@
 # Architecture Overview
 
-Liveli's architecture is based on providing financial and media services, which requires interaction with prominent platforms in the field of finance and media.
+Lively architecture is based on providing financial and media services, which requires interaction with prominent platforms in the field of finance and media. it's depicted in figure 1.
 
 <figure><img src=".gitbook/assets/lively-token-Page-4.drawio.svg" alt=""><figcaption><p>Lively System - figure 1</p></figcaption></figure>
 
-
-
-In general, Liveli's architectural structure is based on Web 2 and Web 3 technologies. And the design and implementation of the services provided by Lively are in accordance with those technologies which can be seen in diagram number 2
+Generally, Lively architecture structure is based on Web 2 and Web 3 technologies. The design and implementation of the services provided by Lively are in accordance with those technologies shown in diagram 2
 
 <figure><img src=".gitbook/assets/lively-token-Page-5.drawio.svg" alt=""><figcaption><p>Lively Landing System - figure 2</p></figcaption></figure>
 
-Landing is the entry point to Lively's world. Landing interacts with various platforms to provide the desired services. In general, the following services are provided on the basis of Web2 technologies:
+Landing is the entry point to Livelyverse world. Landing interacts with various platforms to provide the desired services. In general, the following services are provided on the basis of Web2 technologies:
 
 Airdrop service: This service is responsible for providing airdrops to active users on social networks
 
@@ -18,9 +16,11 @@ Blog service: presenting important articles and events of the blockchain world r
 
 Notification service: to send emails to authenticate Lively users and register users
 
-Market place service: a place to provide marketing services, PR. . . by approved servers along with a payment gateway on the blockchain platform
+Streaming Platform service: it's a platform on the blockchain infrastructure to provide various media content that anyone publishes their own media, shares, and promotes other media.
 
-Back-office service: to provide various management panels of the Liveli system, including user management panels, reports panels, asset management panels. . . User management service: to provide user profile, dashboard. . . it is
+Back-office service: to provide various management panels of the Lively system, including user management panels, reports panels, asset management panels. . .&#x20;
+
+User management service: it provides user profile, dashboard and etc.
 
 Blockchain service: to provide all kinds of reports and search transactions from the blockchain platform
 
@@ -38,6 +38,6 @@ Decentralized automated company contracts: offering decentralized company contra
 
 Token contracts: offering a variety of smart token contracts with different standards to meet the needs of the Lively ecosystem
 
-Integration contracts: providing all kinds of integration and help contracts to improve the provision of combined services and connection to other platforms
+Marketplace Platform: it provides marketing services, PR and etc  on the blockchain platform.
 
 <figure><img src=".gitbook/assets/lively-token-Page-6.drawio.svg" alt=""><figcaption></figcaption></figure>
