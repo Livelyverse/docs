@@ -26,7 +26,7 @@ Blockchain service: to provide all kinds of reports and search transactions from
 
 
 
-<figure><img src=".gitbook/assets/lively-token-Page-7.drawio.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/lively-token-Page-7.drawio.svg" alt=""><figcaption><p>Lively Web 2.0 - figure 3</p></figcaption></figure>
 
 
 
@@ -40,4 +40,4 @@ Token contracts: offering a variety of smart token contracts with different stan
 
 Marketplace Platform: it provides marketing services, PR and etc  on the blockchain platform.
 
-<figure><img src=".gitbook/assets/lively-token-Page-6.drawio.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/lively-token-Page-6.drawio.svg" alt=""><figcaption><p>Lively Web 3.0 - figure 4</p></figcaption></figure>
