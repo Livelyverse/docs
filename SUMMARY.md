@@ -8,7 +8,7 @@
 ## Core Contracts
 
 * [Access Control Manager](core-contracts/access-control-manager.md)
-* [Asset Manager ERC20](core-contracts/asset-manager-erc20.md)
+* [Asset Manager EIP20](core-contracts/asset-manager-eip20.md)
 
 ## Tokens
 
