@@ -1,29 +1,27 @@
 # Access Control Manager
 
-In any system, the access control manager is considered one of the most important components of that system, and considering the extent of the Lively ecosystem, we decided to design an access control manager from scratch that can meet Lively's needs.
+Generally, the access control manager is considered one of the most important components system, and considering the extent of the Lively ecosystem, we decided to design an access control manager from scratch that can meet Lively needs.
 
-The main idea of this design is based on an access control manager structure focused on the blockchain platform, which is a decentralized and on-chain structure. Based on this and according to the figure below, we need the definitions of the concepts considered in the design
+The main idea of this design is based on a centralized structure on the blockchain platform, which is a decentralized and on-chain structure. so we have defined new concepts according to figure 1.
 
 &#x20;
 
-<figure><img src="../.gitbook/assets/lively-token-Page-3.drawio.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/lively-token-Page-11.drawio.svg" alt=""><figcaption><p>Lively ACL - figure 1</p></figcaption></figure>
 
-Access Control Manager (ACM): it's main contract to access control in Lively system. it contains so many functions related to manage user, roles, groups, contexts and realms.&#x20;
+Access Control List Manager (ACLM): it's the main contract to access control in the Lively system. it contains so many functions related to managing members, roles, types, groups, functions, contexts, realms, and domains.
 
-Function: it's basic element in ACM that contains a function selector and only one role along with status which are assigned to it.&#x20;
+Function: it's a basic element in ACLM that contains a function selector, status, and only a reference to one of Role, Type, and Group.
 
-Context: it contains a set of Functions with a unique id in ACM. In the registration process, the keccak256 of the contract address is used as a context id. actually, each Context is equivalent to each contract in ACM env. According to figure-2, when a contract registers itself in ACM, it creates registerContextRequest that contains an array of function selectors along with related roles then registerContext() of ACM is called by contract. if registration is completed successfully then the context Id is returned. eventually, when one of the contract functions is called then it calls hasAccess function of ACM to check user permission to call it.&#x20;
+Context: it has a unique id in ACLM. it contains function selectors, states, and admin role. it's equivalent to a contract that will be registered to ACLM.
 
-Realm: it defines a domain for set of Contexts with specific propose. each Realm doesn't any limitation to contain Context. ACM can contain unlimited Realm.
+Realm: it defines a realm for a set of Contexts with a specific purpose. each Realm doesn't have any limitation to contain Context. it contains also a unique id, an admin role, status and etc.
 
-User: it's an entity that could be one of EOA or smart contracts.
+Domain:  it defines a domain for a set of Realms with a specific purpose. each Domain doesn't have any limitation to contain Realm. it contains also a unique id, an admin role, status and etc.
+
+Member: it refers to an Account(smart contract address) entity or an EOA(External Of Account) entity.
 
 Role: it contains set of users with clear definition of activity in Lively system that define in ACM.it can use in many Functions. &#x20;
 
 Group: It contains set of Roles to facilitate policy management. ACM can contain unlimited Groups.
 
-<figure><img src="../.gitbook/assets/lively-token-Page-10.drawio.svg" alt=""><figcaption></figcaption></figure>
-
 ACM contract implements interfaces that relate to defined keywords. the UML diagram describe interfaces.
-
-<figure><img src="../.gitbook/assets/lively-token-Page-2.drawio.svg" alt=""><figcaption></figcaption></figure>
