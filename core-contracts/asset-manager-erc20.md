@@ -1,10 +1,8 @@
 # Asset Manager ERC20
 
-The Liveli system will include all kinds of tokens with different standards.
+Generally, The Lively ecosystem will include all kinds of tokens with different standards.
 
-We at Lively need a set of smart contracts to distribute ERC20 tokens based on tokenomics, which are the storage place for the initial distribution of tokens. To facilitate the management of these contracts, the ERC20 asset manager smart contract was designed and implemented, which includes the following features:
-
-create, remove and register Asset ERC20 smart contracts and bind it to specific ERC20 token &#x20;
+The Lively need a set of smart contracts to distribute ERC20 tokens based on tokenomics, which are the storage place for the initial distribution of tokens. To facilitate the management of these contracts, the ERC20 asset manager smart contract was designed and implemented. it should be able to create, remove and register Asset ERC20 smart contracts and bind them to specific ERC20 token. Register new ERC20 token and relate to specific ERC20 asset implementation. Call functions of ERC20 tokens by ERC20 assets for transferring, allowing and etc.
 
 
 
