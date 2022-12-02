@@ -14,14 +14,14 @@ Function: it's a basic element in ACLM that contains a function selector, status
 
 Context: it has a unique id in ACLM. it contains function selectors, states, and admin role. it's equivalent to a contract that will be registered to ACLM.
 
-Realm: it defines a realm for a set of Contexts with a specific purpose. each Realm doesn't have any limitation to contain Context. it contains also a unique id, an admin role, status and etc.
+Realm: it defines a realm for a set of Contexts with a specific purpose. each Realm doesn't have any limitation to contain Context. it contains also a unique id, an admin role, status and etc.&#x20;
 
-Domain:  it defines a domain for a set of Realms with a specific purpose. each Domain doesn't have any limitation to contain Realm. it contains also a unique id, an admin role, status and etc.
+Domain:  it defines a domain for a set of Realms with a specific purpose. each Domain doesn't have any limitation to contain Realm. it contains also a unique id, an admin role, status and etc. ACLM can contain unlimited domains.
 
 Member: it refers to an Account(smart contract address) entity or an EOA(External Of Account) entity.
 
-Role: it contains a set of members with a clear definition of activity in the Lively system that defines in ACLM. it has a unique id that uses in functions, contexts, realms, and domains.Group: It contains set of Roles to facilitate policy management. ACM can contain unlimited Groups.
+Role: it contains a set of members with a clear definition of activity in the Lively system that defines in ACLM. it has a unique id that contains scope for reference to one of the functions, contexts, realms, and domains. it contains also security policy. the security policy is similar to the claim that contains some permissions.
 
-Type :&#x20;
+Type: it defines a type of role to classify roles. it can contain many roles with different scopes and scopes of roles must conform with it. it has also a unique id and status.
 
-ACM contract implements interfaces that relate to defined keywords. the UML diagram describe interfaces.
+Group: it contains a set of role types. it has a unique id and status. ACLM can contain unlimited groups with different scopes. it contains also many role types with different scopes and scopes of roles must conform with it.
