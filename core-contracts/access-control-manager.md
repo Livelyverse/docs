@@ -20,8 +20,8 @@ Domain:  it defines a domain for a set of Realms with a specific purpose. each D
 
 Member: it refers to an Account(smart contract address) entity or an EOA(External Of Account) entity.
 
-Role: it contains set of users with clear definition of activity in Lively system that define in ACM.it can use in many Functions. &#x20;
+Role: it contains a set of members with a clear definition of activity in the Lively system that defines in ACLM. it has a unique id that uses in functions, contexts, realms, and domains.Group: It contains set of Roles to facilitate policy management. ACM can contain unlimited Groups.
 
-Group: It contains set of Roles to facilitate policy management. ACM can contain unlimited Groups.
+Type :&#x20;
 
 ACM contract implements interfaces that relate to defined keywords. the UML diagram describe interfaces.
