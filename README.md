@@ -2,6 +2,8 @@
 
 Lively architecture is based on providing financial and media services, which requires interaction with prominent platforms in the field of finance and media. it's depicted in figure 1.
 
+// TODO update it
+
 <figure><img src=".gitbook/assets/lively-token-Page-4.drawio.svg" alt=""><figcaption><p>Lively System - figure 1</p></figcaption></figure>
 
 Generally, Lively architecture structure is based on Web 2 and Web 3 technologies. The design and implementation of the services provided by Lively are in accordance with those technologies shown in diagram 2
