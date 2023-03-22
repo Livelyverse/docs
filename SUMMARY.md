@@ -7,7 +7,7 @@
 
 ## Core Contracts
 
-* [Access Control Manager](core-contracts/access-control-manager.md)
+* [Lively Business Launchpad](core-contracts/lively-business-launchpad.md)
 * [Asset Manager EIP20](core-contracts/asset-manager-erc20.md)
 
 ## Tokens

@@ -1,14 +1,12 @@
-# Access Control Manager
+# Lively Business Launchpad
 
-Generally, the access control manager is considered one of the most important components system, and considering the extent of the Lively ecosystem, we decided to design an access control manager from scratch that can meet Lively needs.
+Generally, the Lively business launchpad is considered one of the most important components system, and considering the extent of the Lively ecosystem, we decided to design an access control manager from scratch that can meet Lively needs.
 
 The main idea of this design is based on a centralized structure on the blockchain platform, which is a decentralized and on-chain structure. so we have defined new concepts according to figure 1.
 
-&#x20;
+![](<../.gitbook/assets/lively-token-Business Launchpad.drawio.svg>)
 
-<figure><img src="../.gitbook/assets/lively-token-Page-11.drawio.svg" alt=""><figcaption><p>Lively ACL - figure 1</p></figcaption></figure>
-
-Access Control List Manager (ACLM): it's the main contract to access control in the Lively system. it contains so many functions related to managing members, roles, types, groups, functions, contexts, realms, and domains.
+Lively Gaurd : it's the main contract to access control in the Lively system. it contains so many functions related to managing members, roles, types, groups, functions, contexts, realms, and domains.
 
 Function: it's a basic element in ACLM that contains a function selector, status, and only a reference to one of Role, Type, and Group.
 
