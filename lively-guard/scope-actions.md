@@ -36,4 +36,23 @@ Domain Management Interface (IDomainManagement)\
 * **domainGetRealms():** get whole realms IDs in the Domain entity
 * **domainGetInfo():** get Domain entity information
 
+## Realm Management Interface (IRealmManagement
+
 \
+
+
+* **realmRegister():** register new Realms (Service) entity in the Domain entity
+* **realmUpdateAdmin():** update admin of Realm entity who is referred to specific Type or Role entity
+* **realmMoveContext():** move the Context entity to another Realm entity. A successful move occurs if the Context entity hasn’t been referred by any agent.
+* **realmUpdateActivityStatus():** update activity status of Realm entity
+* **realmUpdateAlterabilityStatus():** update the alterability status of Realm entity.
+* **realmUpdateContextLimit():** update the number of Context (Contract) entities that can register in the Realm entity.
+* **realmRemove():** the Realm entity will be removed according to these conditions, firstly, it mustn't have any Context entity, secondly, if it is referred by any Agent entity, the Realm entity will be removed softly, and also if it isn't referred by any Agent entity, the Realm entity will be removed from blockchain node (storage)
+* **realmCheckId():** check Realm entity exists by ID
+* **realmCheckName():** check Realm entity exists by Name
+* **realmCheckAdmin():** check admin of Realm entity by account address
+* **realmHasFunction():** check Function ID exists in the Realm entity
+* **realmHasContext():** check Context ID exists in Realm entity
+* **realmGetContexts():** get whole contexts IDs in Realm entity
+* **realmGetInfo():** get Realm entity information\
+  \
