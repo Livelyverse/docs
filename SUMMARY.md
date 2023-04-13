@@ -22,6 +22,9 @@
     * [Profile Default Roles](lively-guard/profile-default/profile-default-roles.md)
     * [Profile Default Scopes](lively-guard/profile-default/profile-default-scopes.md)
   * [Scope Actions](lively-guard/scope-actions.md)
+  * [Agent Actions](lively-guard/agent-actions.md)
+  * [Policy Actions](lively-guard/policy-actions.md)
+  * [Profile Management Actions](lively-guard/profile-management-actions.md)
 
 ## Core Contracts
 
