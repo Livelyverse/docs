@@ -5,6 +5,12 @@
 * [Architecture Overview](README.md)
 * [Smart Contracts Overview](getting-started/smart-contracts-overview.md)
 
+***
+
+* [Lively Guard](lively-guard/README.md)
+  * [Overview](lively-guard/overview.md)
+  * [Scope](lively-guard/scope.md)
+
 ## Core Contracts
 
 * [Lively Business Launchpad](core-contracts/lively-business-launchpad.md)
