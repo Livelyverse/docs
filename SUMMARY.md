@@ -8,8 +8,12 @@
 ***
 
 * [Lively Guard](lively-guard/README.md)
-  * [Overview](lively-guard/overview.md)
-  * [Scope](lively-guard/scope.md)
+  * [Overview](lively-guard/overview/README.md)
+    * [Scope](lively-guard/overview/scope.md)
+    * [Agent](lively-guard/overview/agent.md)
+    * [Policy](lively-guard/overview/policy.md)
+    * [Profile](lively-guard/overview/profile.md)
+  * [ACL Default Types](lively-guard/acl-default-types.md)
 
 ## Core Contracts
 

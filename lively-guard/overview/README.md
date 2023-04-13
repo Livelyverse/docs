@@ -13,7 +13,7 @@ We have 4 sections in Lively Guard as a blow:
 * Policies
 * Profiles
 
-**Scope** is the operational zone that corresponds to system functionality entities.It includes Universe, Domain, Realm, Context, and Function entities.
+[**Scope**](broken-reference) is the operational zone that corresponds to system functionality entities.It includes Universe, Domain, Realm, Context, and Function entities.
 
 **Agent** is the subject who can make actions in Scope. It contains Type (Department), Role, and Member entities.
 
