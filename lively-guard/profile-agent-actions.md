@@ -36,28 +36,20 @@
 
 ## Profile Member Management Interface (IProfileMemberManagement)
 
-* profileMemberRegister(): register a new Member entity in the Role entity of the Type entity, in such a way it can register in only one Role of each Type entity.
-* profileMemberUpdateTypeLimit(): update the number of Type entities that Member entity can join those.
-* profileMemberUpdateRegisterLimit(): update register limitations of Member entity which is related to actions member can do in the specific Profile entity.
-* profileMemberUpdateCallLimit(): update the number of call functions that the Member entity can do.
-* profileMemberUpdateActivityStatus(): update activity status of Member entity
-* profileMemberUpdateAlterabilityStatus(): update alterability status of Member entity
-* profileMemberUpdateAdmin(): update admin of Member entity who is referred to specific Type or Role entity.
-* profileMemberRemove(): remove the Member entity from the blockchain node (storage)
-* profileMemberCheckId(): check Member entity exists by ID
-* profileMemberCheckAccount(): check Member entity exists by account address
-* profileMemberCheckAdmin(): check admin of Member entity by account address
-* profileMemberHasType(): check Member entity exists in Type entity
-
-\
-
-
-* profileMemberGetTypes(): get whole Type IDs in the Member entity
-
-\
-
-
-* profileMemberGetInfo(): get Member entity information
+* **profileMemberRegister():** register a new Member entity in the Role entity of the Type entity, in such a way it can register in only one Role of each Type entity.
+* **profileMemberUpdateTypeLimit():** update the number of Type entities that Member entity can join those.
+* **profileMemberUpdateRegisterLimit():** update register limitations of Member entity which is related to actions member can do in the specific Profile entity.
+* **profileMemberUpdateCallLimit():** update the number of call functions that the Member entity can do.
+* **profileMemberUpdateActivityStatus():** update activity status of Member entity
+* **profileMemberUpdateAlterabilityStatus():** update alterability status of Member entity
+* **profileMemberUpdateAdmin():** update admin of Member entity who is referred to specific Type or Role entity.
+* **profileMemberRemove():** remove the Member entity from the blockchain node (storage)
+* **profileMemberCheckId():** check Member entity exists by ID
+* **profileMemberCheckAccount():** check Member entity exists by account address
+* **profileMemberCheckAdmin():** check admin of Member entity by account address
+* **profileMemberHasType():** check Member entity exists in Type entity
+* **profileMemberGetTypes():** get whole Type IDs in the Member entity
+* **profileMemberGetInfo():** get Member entity information
 
 \
 
