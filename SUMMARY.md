@@ -27,6 +27,7 @@
   * [Profile Management Actions](lively-guard/profile-management-actions.md)
   * [ACL Actions](lively-guard/acl-actions.md)
   * [Profile Scope Actions](lively-guard/profile-scope-actions.md)
+  * [Profile Agent Actions](lively-guard/profile-agent-actions.md)
 
 ## Core Contracts
 

@@ -73,30 +73,18 @@
 
 
 
-* profileFunctionRegister(): register new Function entity in Context entity
-* profileFunctionUpdateAdmin(): update admin of Function entity who is referred to specific Type or Role entity
-* profileFunctionUpdateAgent(): update agent of Function entity who is referred to specific Type or Role entity
-* profileFunctionUpdateActivityStatus(): update activity status of Function entity
-* profileFunctionUpdateAlterabilityStatus(): update alterability status of Function entity
-* profileFunctionUpdatePolicyCode(): update policy code of Function entity
-* profileFunctionRemove(): the Function entity will be removed if it is referred by any Agent entity, the Function entity will be removed softly, and also if it isn't referred by any Agent entity, the Function entity will be removed from blockchain node (storage)
-* profileFunctionCheckId(): check Function entity exists by ID
-* profileFunctionCheckSelector(): check Function entity exists by function selector ID
-
-\
-
-
-* profileFunctionCheckAdmin(): check admin of Function entity by account address
-
-\
-
-
-* profileFunctionCheckAgent(): check agent of Function entity by account address
-
-\
-
-
-* profileFunctionGetInfo(): get Function entity Information
+* **profileFunctionRegister():** register new Function entity in Context entity
+* **profileFunctionUpdateAdmin():** update admin of Function entity who is referred to specific Type or Role entity
+* **profileFunctionUpdateAgent():** update agent of Function entity who is referred to specific Type or Role entity
+* **profileFunctionUpdateActivityStatus():** update activity status of Function entity
+* **profileFunctionUpdateAlterabilityStatus():** update alterability status of Function entity
+* **profileFunctionUpdatePolicyCode():** update policy code of Function entity
+* **profileFunctionRemove():** the Function entity will be removed if it is referred by any Agent entity, the Function entity will be removed softly, and also if it isn't referred by any Agent entity, the Function entity will be removed from blockchain node (storage)
+* **profileFunctionCheckId():** check Function entity exists by ID
+* **profileFunctionCheckSelector():** check Function entity exists by function selector ID
+* **profileFunctionCheckAdmin():** check admin of Function entity by account address
+* **profileFunctionCheckAgent():** check agent of Function entity by account address
+* **profileFunctionGetInfo():** get Function entity Information
 
 \
 
