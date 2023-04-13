@@ -33,6 +33,7 @@
   * [Proxy Commons](lively-guard/proxy-commons.md)
 * [Lively Token](lively-token/README.md)
   * [Lively Token ERC20 (LIV)](lively-token/lively-token-erc20-liv.md)
+* [Asset Manager ERC20](asset-manager-erc20.md)
 
 ## Core Contracts
 
