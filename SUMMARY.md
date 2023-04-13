@@ -30,6 +30,9 @@
   * [Profile Agent Actions](lively-guard/profile-agent-actions.md)
   * [Profile Policy Actions](lively-guard/profile-policy-actions.md)
   * [Profile ACL Actions](lively-guard/profile-acl-actions.md)
+  * [Proxy Commons](lively-guard/proxy-commons.md)
+* [Lively Token](lively-token/README.md)
+  * [Lively Token ERC20 (LIV)](lively-token/lively-token-erc20-liv.md)
 
 ## Core Contracts
 
