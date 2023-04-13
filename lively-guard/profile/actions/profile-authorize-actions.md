@@ -1,4 +1,4 @@
-# Profile ACL Actions
+# Profile Authorize Actions
 
 ## Profile ACL General Interface (IProfileACLGenerals)
 

@@ -1,4 +1,4 @@
-# ACL Actions
+# Authorize Actions
 
 ## ACL General Interface (IACLGenerals)
 
