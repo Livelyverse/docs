@@ -13,7 +13,15 @@
     * [Agent](lively-guard/overview/agent.md)
     * [Policy](lively-guard/overview/policy.md)
     * [Profile](lively-guard/overview/profile.md)
-  * [ACL Default Types](lively-guard/acl-default-types.md)
+  * [ACL Default](lively-guard/acl-default/README.md)
+    * [ACL Default Types](lively-guard/acl-default/acl-default-types.md)
+    * [ACL Default Roles](lively-guard/acl-default/acl-default-roles.md)
+    * [ACL Default Scopes](lively-guard/acl-default/acl-default-scopes.md)
+  * [Profile Default](lively-guard/profile-default/README.md)
+    * [Profile Default Types](lively-guard/profile-default/profile-default-types.md)
+    * [Profile Default Roles](lively-guard/profile-default/profile-default-roles.md)
+    * [Profile Default Scopes](lively-guard/profile-default/profile-default-scopes.md)
+  * [Scope Actions](lively-guard/scope-actions.md)
 
 ## Core Contracts
 
